@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[**************Amazon page Launched*************]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="84196" started-at="2019-09-05T12:41:28Z" finished-at="2019-09-05T12:42:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="84196" started-at="2019-09-05T12:41:28Z" finished-at="2019-09-05T12:42:53Z">
+      <class name="testscript.WebPage">
+        <test-method status="PASS" signature="AmazonPage()[pri:0, instance:testscript.WebPage@6ea12c19]" name="AmazonPage" duration-ms="84145" started-at="2019-09-05T18:11:28Z" finished-at="2019-09-05T18:12:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[**************Amazon page Launched*************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AmazonPage -->
+      </class> <!-- testscript.WebPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
